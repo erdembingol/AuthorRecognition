@@ -1,0 +1,35 @@
+@RELATION TestArticle
+
+@ATTRIBUTE ExclamationSentences REAL
+@ATTRIBUTE InverseSentences REAL
+@ATTRIBUTE NegatifSentences REAL
+@ATTRIBUTE Connectives REAL
+@ATTRIBUTE Nums REAL
+@ATTRIBUTE Pronouns REAL
+@ATTRIBUTE QuestionWords REAL
+@ATTRIBUTE Abbreviations REAL
+@ATTRIBUTE Times REAL
+@ATTRIBUTE ColonSize REAL
+@ATTRIBUTE CommaSize REAL
+@ATTRIBUTE EllipsisPointSize REAL
+@ATTRIBUTE HypenSize REAL
+@ATTRIBUTE PointSize REAL
+@ATTRIBUTE QuotationSize REAL
+@ATTRIBUTE SemicolonSize REAL
+@ATTRIBUTE ExlamationSize REAL
+@ATTRIBUTE ParanthesisSize REAL
+@ATTRIBUTE QuestionMarkSize REAL
+@ATTRIBUTE CapitalLetterSize REAL
+@ATTRIBUTE AverageSentencesLength REAL
+@ATTRIBUTE AverageWordCountPerSentences REAL
+@ATTRIBUTE AverageWordLength REAL
+@ATTRIBUTE Dugasts REAL
+@ATTRIBUTE Guiard REAL
+@ATTRIBUTE Maas REAL
+@ATTRIBUTE Rubet REAL
+@ATTRIBUTE Sichel REAL
+@ATTRIBUTE TypeTokenRatio REAL
+@ATTRIBUTE AUTHOR {Taha-Akyol,Mehmet-Ali-Birand,Leyla-İpekçi,Ekrem-Dumanlı,Rasim-Ozan,Mehmet-Barlas,A-Turan-Alkan,Can-Ataklı,Reha-Muhtar,Rıdvan-Dilmen,Haşmet-Babaoğlu,Meryem-Koray,Nazlı-Ilıcak,Gözde-Bedeloğlu,Nazan-Bekiroğlu,Mehmet-Demirkol,Okay-Karacan,Hüseyin-Gülerce,İclal-Aydın,Ahmet-Çakar}
+
+@DATA
+64.0,298.0,272.0,2994.0,32.0,41.0,520.0,260.0,15.0,19.0,445.0,0.0,19.0,394.0,0.0,2547.0,44.0,25.0,25.0,31.0,84.0,10.0,6.0,811.0,2349.0,35.0,611.0,98.0,76.0,?
